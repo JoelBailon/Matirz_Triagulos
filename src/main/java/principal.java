@@ -23,6 +23,8 @@ public class principal {
         System.out.println();
 
         triangulos.imprimirTrianguloB();
+        
+        System.out.println("El programa se subio a GitHub");
     }
 }
 
